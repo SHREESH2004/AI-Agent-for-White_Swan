@@ -3,7 +3,9 @@
 ````markdown
 # 🤖✈️ MCP AI Agent — Autonomous Flight Booking for White Swan
 
+
 A next-gen AI agent built to autonomously interact with the **White Swan Flight Booking Microservices Platform** using the **Model Context Protocol (MCP)**. This smart agent can **search**, **book**, and **manage** flights end-to-end — securely and autonomously.
+
 
 > 🧠 Think of it as your backend co-pilot — capable of executing complex flight bookings like a human, but faster and more reliably.
 
@@ -50,9 +52,12 @@ mcp-ai-agent/
 ├── .env                   # Environment variables
 ├── index.js               # Agent entry point
 └── README.md
+
 ````
 
 ---
+
+https://github.com/user-attachments/assets/dacab108-53f3-4255-a4ad-f84e1a222e73
 
 ## ⚙️ Getting Started
 
