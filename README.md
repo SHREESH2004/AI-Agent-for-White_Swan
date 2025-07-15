@@ -129,16 +129,3 @@ We welcome PRs, forks, issues, and collabs from developers interested in:
 
 MIT — Use it, extend it, automate with it.
 *White Swan agents don’t sleep.* 🕊️
-
-```
-
----
-
-Would you like:
-
-- A **badge row** (e.g. stars, license, tech)?
-- **Live demo** GIF of agent workflow (can embed if you send video)?
-- **Agent logs** or **interaction sample** in the README?
-
-Let me know if you want it ready for Hackathons or DevFolio/Showwcase too!
-```
